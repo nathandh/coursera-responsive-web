@@ -1,0 +1,3 @@
+[submodule "course2-TaskMaster"]
+	path = course2-TaskMaster
+	url = https://github.com/nathandh/coursera-responsive-web-course2-TaskMaster.git
